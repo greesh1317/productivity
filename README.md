@@ -78,7 +78,6 @@ npm install
 
 
 
----
 
 ## **Key Learnings**  
 - **MERN Stack Integration**: Connecting React frontend with Node.js backend.  
